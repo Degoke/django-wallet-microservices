@@ -1,0 +1,5 @@
+db.sqlite3
+.env
+env/
+user_service/.env
+.DS_Store
